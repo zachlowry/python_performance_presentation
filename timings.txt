@@ -1,0 +1,33 @@
+testing python
+elapsed time for python: 559408.03s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing python_refactored
+elapsed time for python_refactored: 4299.27s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_precomputed_bins
+elapsed time for numpy_precomputed_bins: 105.35s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_as_strided
+elapsed time for numpy_as_strided: 107.35s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_bincount
+elapsed time for numpy_bincount: 11.31s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_skip
+elapsed time for numpy_skip: 12.11s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_vectorized
+elapsed time for numpy_vectorized: 2.13s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_threads
+elapsed time for numpy_threads: 17.64s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numpy_threads_vectorized
+elapsed time for numpy_threads_vectorized: 4.43s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba
+elapsed time for numba: 0.81s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_skip
+elapsed time for numba_skip: 0.61s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_vectorized
+elapsed time for numba_vectorized: 0.99s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_threads
+elapsed time for numba_threads: 1.08s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_threads_nogil
+elapsed time for numba_threads_nogil: 1.54s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_parallel
+elapsed time for numba_parallel: 0.22s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+testing numba_cuda
+elapsed time for numba_cuda: 0.96s; hash: f263ff6bff85be4ca699fbb9aa5f79d3e8be5ae4
+
